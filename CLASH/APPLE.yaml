@@ -1,0 +1,39 @@
+
+
+
+payload:
+
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,apple.com.cn
+  - DOMAIN-KEYWORD,beat
+  - DOMAIN-KEYWORD,beats
+  - DOMAIN-KEYWORD,appleid
+  - DOMAIN-KEYWORD,appleone
+  - DOMAIN-KEYWORD,applepay
+  - DOMAIN-KEYWORD,applewallet
+  - DOMAIN-KEYWORD,applestore
+  - DOMAIN-KEYWORD,appletv
+  - DOMAIN-KEYWORD,icloud
+  - DOMAIN-KEYWORD,imovie
+  - DOMAIN-KEYWORD,ibook
+  - DOMAIN-KEYWORD,applemusic
+  - DOMAIN-KEYWORD,macbook
+  - DOMAIN-KEYWORD,ipod
+  - DOMAIN-KEYWORD,imac
+  - DOMAIN-KEYWORD,ipad
+  - DOMAIN-KEYWORD,iphone
+  - DOMAIN-KEYWORD,itunes
+  - DOMAIN-KEYWORD,apple
+  - DOMAIN-KEYWORD,apple.com
+  - DOMAIN-KEYWORD,itunes.apple.com
+  - DOMAIN-KEYWORD,smp-device
+  - DOMAIN-KEYWORD,testflight
+
+  - IP-ASN,714,no-resolve
+  - IP-ASN,1036,no-resolve
+  - IP-ASN,1042,no-resolve
+  - IP-ASN,2709,no-resolve
+  - IP-ASN,6185,no-resolve
+  - IP-ASN,47995,no-resolve
+  - IP-ASN,216183,no-resolve
+  - IP-ASN,210176,no-resolve

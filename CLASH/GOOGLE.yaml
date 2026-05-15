@@ -7,7 +7,7 @@ payload:
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,recaptcha
   - DOMAIN-KEYWORD,blogspot
-  
+
   - DOMAIN-SUFFIX,0emm.com
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,1ucrs.com
@@ -184,7 +184,6 @@ payload:
   - DOMAIN-SUFFIX,googel.com
   - DOMAIN-SUFFIX,googil.com
   - DOMAIN-SUFFIX,googl.com
-
   - DOMAIN-SUFFIX,googlr.com
   - DOMAIN-SUFFIX,goolge.com
   - DOMAIN-SUFFIX,gooogle.com
@@ -379,40 +378,48 @@ payload:
   - DOMAIN-SUFFIX,zynamics.com
   - DOMAIN-SUFFIX,googledrive.com
   - DOMAIN-SUFFIX,googleusercontent.com
-  - DOMAIN-KEYWORD,appspot
-  - DOMAIN-KEYWORD,blogspot
-  - DOMAIN-KEYWORD,gmail
-  - DOMAIN-KEYWORD,google
-  - DOMAIN-KEYWORD,recaptcha
-  - IP-CIDR,172.110.32.0/21
-  - IP-CIDR,173.194.0.0/16
-  - IP-CIDR,216.73.80.0/20
-  - IP-CIDR,74.125.0.0/16
-  - IP-CIDR6,2620:120:e000::/40
+
+  - IP-ASN,6432,no-resolve
+  - IP-ASN,55023,no-resolve
+  - IP-ASN,45566,no-resolve
+  - IP-ASN,41264,no-resolve
+  - IP-ASN,40873,no-resolve
+  - IP-ASN,396982,no-resolve
+  - IP-ASN,396178,no-resolve
+  - IP-ASN,395973,no-resolve
+  - IP-ASN,394639,no-resolve
+  - IP-ASN,394507,no-resolve
+  - IP-ASN,394089,no-resolve
+  - IP-ASN,36987,no-resolve
+  - IP-ASN,36520,no-resolve
+  - IP-ASN,36492,no-resolve
+  - IP-ASN,36411,no-resolve
+  - IP-ASN,36385,no-resolve
+  - IP-ASN,36384,no-resolve
+  - IP-ASN,36383,no-resolve
+  - IP-ASN,36039,no-resolve
+  - IP-ASN,33715,no-resolve
+  - IP-ASN,32381,no-resolve
+  - IP-ASN,26910,no-resolve
+  - IP-ASN,26684,no-resolve
+  - IP-ASN,22859,no-resolve
+  - IP-ASN,22577,no-resolve
+  - IP-ASN,214611,no-resolve
+  - IP-ASN,214609,no-resolve
+  - IP-ASN,209539,no-resolve
+  - IP-ASN,209519,no-resolve
+  - IP-ASN,209504,no-resolve
+  - IP-ASN,19527,no-resolve
+  - IP-ASN,19448,no-resolve
+  - IP-ASN,19425,no-resolve
+  - IP-ASN,16591,no-resolve
+  - IP-ASN,16550,no-resolve
+  - IP-ASN,15169,no-resolve
+  - IP-ASN,151231,no-resolve
+  - IP-ASN,13949,no-resolve
+  - IP-ASN,139190,no-resolve
+  - IP-ASN,139070,no-resolve
   
-  - IP-CIDR,108.177.125.188/32
-  - IP-CIDR,142.250.10.188/32
-  - IP-CIDR,142.250.31.188/32
-  - IP-CIDR,142.250.4.188/32
-  - IP-CIDR,142.250.96.188/32
-  - IP-CIDR,172.217.194.188/32
-  - IP-CIDR,172.217.218.188/32
-  - IP-CIDR,172.217.219.188/32
-  - IP-CIDR,172.253.122.188/32
-  - IP-CIDR,172.253.63.188/32
-  - IP-CIDR,173.194.175.188/32
-  - IP-CIDR,173.194.218.188/32
-  - IP-CIDR,209.85.233.188/32
-  - IP-CIDR,64.233.177.188/32
-  - IP-CIDR,64.233.186.188/32
-  - IP-CIDR,64.233.187.188/32
-  - IP-CIDR,64.233.188.188/32
-  - IP-CIDR,64.233.189.188/32
-  - IP-CIDR,74.125.127.188/32
-  - IP-CIDR,74.125.137.188/32
-  - IP-CIDR,74.125.203.188/32
-  - IP-CIDR,74.125.204.188/32
-  - IP-CIDR,74.125.206.188/32
-  - IP-CIDR,74.125.23.188/32
-  - IP-CIDR,74.125.24.188/32
-  - IP-CIDR,74.125.28.188/32
+  #GOOGLE CN
+  - IP-ASN,24424,no-resolve
+  
