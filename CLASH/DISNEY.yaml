@@ -3,9 +3,30 @@
 
 payload:
   - DOMAIN-KEYWORD,disney
+  - DOMAIN-KEYWORD,disneyplus
   
   - DOMAIN-SUFFIX,disney.com
   - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,disney.my.sentry.io
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,disney-plus.net
+  - DOMAIN-SUFFIX,disney-portal.my.onetrust.com
+  - DOMAIN-SUFFIX,cdn.cookielaw.org
+  - DOMAIN-SUFFIX,bamgrid.com
+  - DOMAIN-SUFFIX,bam.nr-data.net
+  - DOMAIN-SUFFIX,cdn.registerdisney.go.com
+  - DOMAIN-SUFFIX,cws.conviva.com
+  - DOMAIN-SUFFIX,d9.flashtalking.com
+  - DOMAIN-SUFFIX,disneyplus.bn5x.net
+  - DOMAIN-SUFFIX,js-agent.newrelic.com
+  - DOMAIN-SUFFIX,dssott.com
+  - DOMAIN-SUFFIX,adobedtm.com
+  - DOMAIN-SUFFIX,dssedge.com
+  - DOMAIN-SUFFIX,mobile-data.onetrust.io
+  - DOMAIN-SUFFIX,starott.com
+  - DOMAIN-SUFFIX,disneyplug.disney.co.jp
+  - DOMAIN-SUFFIX,disney-plus.net
+ 
   - DOMAIN-SUFFIX,20thcenturystudios.com.au
   - DOMAIN-SUFFIX,20thcenturystudios.com.br
   - DOMAIN-SUFFIX,20thcenturystudios.jp

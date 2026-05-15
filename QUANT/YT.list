@@ -12,7 +12,6 @@ USER-AGENT,YouTubeMusic*,proxy
 USER-AGENT,com.google.ios.youtube*,proxy
 USER-AGENT,com.google.ios.youtubemusic*,proxy
 
-HOST,yt3.ggpht.com,proxy
 HOST-SUFFIX,ggpht.cn,proxy
 HOST-SUFFIX,ggpht.com,proxy
 HOST-SUFFIX,googlevideo.com,proxy
@@ -24,7 +23,10 @@ HOST-SUFFIX,youtu.be,proxy
 HOST-SUFFIX,yt.be,proxy
 HOST-SUFFIX,ytimg.com,proxy
 HOST,youtubei.googleapis.com,proxy
+HOST,yt3.ggpht.com,proxy
 
-IP-CIDR,172.110.32.0/21,proxy
-IP-CIDR,216.73.80.0/20,proxy
-IP6-CIDR,2620:120:e000::/40,proxy
+IP-ASN,43515,proxy
+IP-ASN,36561,proxy
+IP-ASN,36040,proxy
+IP-ASN,1026,proxy
+IP-ASN,11344,proxy

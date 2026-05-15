@@ -1,5 +1,8 @@
 # NAME: Telegram
 
+HOST-KEYWORD,nicegram,proxy
+HOST-KEYWORD,telegram,proxy
+
 HOST,api.imem.app,proxy
 HOST,api.swiftgram.app,proxy
 HOST-SUFFIX,cdn-telegram.org,proxy
@@ -24,7 +27,7 @@ HOST-SUFFIX,telesco.pe,proxy
 HOST-SUFFIX,tg.dev,proxy
 HOST-SUFFIX,tx.me,proxy
 HOST-SUFFIX,usercontent.dev,proxy
-HOST-KEYWORD,nicegram,proxy
+
 IP-CIDR,109.239.140.0/24,proxy
 IP-CIDR,139.59.210.98/32,proxy
 IP-CIDR,149.154.160.0/20,proxy
@@ -63,12 +66,6 @@ IP-ASN,62041, proxy
 HOST-KEYWORD,twitter,proxy
 HOST-SUFFIX,twitter.biz,proxy
 HOST-SUFFIX,twitter.com,proxy
-HOST-SUFFIX,twitter.jp,proxy
-HOST-SUFFIX,twittercommunity.com,proxy
-HOST-SUFFIX,twitterflightschool.com,proxy
-HOST-SUFFIX,twitterinc.com,proxy
-HOST-SUFFIX,twitteroauth.com,proxy
-HOST-SUFFIX,twitterstat.us,proxy
 HOST-SUFFIX,ads-twitter.com, proxy
 HOST-SUFFIX,cms-twdigitalassets.com, proxy
 HOST-SUFFIX,grok.com, proxy
@@ -87,13 +84,16 @@ HOST-SUFFIX,twttr.net, proxy
 HOST-SUFFIX,twvid.com, proxy
 HOST-SUFFIX,vine.co, proxy
 HOST-SUFFIX,x.com, proxy
-IP-CIDR,192.133.76.0/22, proxy
-IP-CIDR,199.59.148.0/22, proxy
-IP-CIDR,199.96.56.0/21, proxy
-IP-CIDR,202.160.128.0/22, proxy
-IP-CIDR,209.237.192.0/19, proxy
-IP-CIDR,69.195.160.0/19, proxy
 
+IP-ASN,13414,proxy
+IP-ASN,35995,proxy
+IP-ASN,54888,proxy
+IP-ASN,63179,proxy
+
+
+
+
+#tumblr
 HOST-SUFFIX,tmblr.co, proxy
 HOST-SUFFIX,tumblr.co, proxy
 HOST-SUFFIX,tumblr.com, proxy
