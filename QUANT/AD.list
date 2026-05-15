@@ -1,5 +1,14 @@
 ## 广告域名列表
 
+
+host-suffix,qiezibenpao.com,reject
+host-suffix,tianwenca.com,reject
+host-suffix,xinqiucc.com,reject
+host-suffix,kuiniuca.com,reject
+host-suffix,ac.dun.163.com,reject
+host-suffix,fp-upload.dun.163.com,reject
+
+
 host-suffix,10up.com,reject
 host-suffix,111cn.net,reject
 host-suffix,114la.com,reject

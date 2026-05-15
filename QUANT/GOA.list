@@ -709,8 +709,10 @@ host-suffix,zaobao.com.sg,proxy
 host-suffix,zeutch.com,proxy
 host-suffix,zynamics.com,proxy
 
-
-
+host-suffix,github.io,proxy
+host-suffix,windy.com,proxy
+host-suffix,gvdb.com,proxy
+host-suffix,cloudflareinsights.com,proxy
 
 #discord
 host-suffix,discord.co,proxy
