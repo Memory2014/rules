@@ -2,74 +2,96 @@ payload:
 
   - DOMAIN-KEYWORD,hbogoasia
   - DOMAIN-KEYWORD,hboasia
+  - DOMAIN-KEYWORD,hbogo
+  - DOMAIN-KEYWORD,hboasia
+  - DOMAIN-KEYWORD,hbomax
   
-  - DOMAIN-SUFFIX,hbounify-prod.evergent.com
-  - DOMAIN-SUFFIX,manifest.prod.boltdns.net
-  - DOMAIN-SUFFIX,hbomaxcdn.com
+  - DOMAIN-SUFFIX,go.com
+  - DOMAIN-SUFFIX,hbo.com
+  - DOMAIN-SUFFIX,hbogo.com
+  - DOMAIN-SUFFIX,hbonow.com
   - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,maxgo.com
+  - DOMAIN-SUFFIX,hbo.com
+  - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,hbomaxcdn.com
+  - DOMAIN-SUFFIX,discomax.com
+  - DOMAIN-SUFFIX,warnermediacdn.com
+  
+  - DOMAIN-SUFFIX,brightline.tv
+  - DOMAIN-SUFFIX,litix.io
+  - DOMAIN-SUFFIX,media.h264.io
   - DOMAIN-SUFFIX,now-ashare.com
   - DOMAIN-SUFFIX,now-tv.com
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,now.com.hk
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-SUFFIX,nowe.hk
-  - DOMAIN-SUFFIX,players.brightcove.net
-  - DOMAIN-SUFFIX,warnermediacdn.com
-  - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN-SUFFIX,cinemax.com
-  - DOMAIN-SUFFIX,discomax.com
   - DOMAIN-SUFFIX,h264.io
-  - DOMAIN-SUFFIX,hbomax.com
-  - DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
-  - DOMAIN-SUFFIX,hbonow.com
-  
-  - DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
-  - DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
-  - DOMAIN-SUFFIX,cinemax.com
-  - DOMAIN-SUFFIX,dai3fd1oh325y.cloudfront.net
-  - DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
-  - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
-  - DOMAIN-SUFFIX,forthethrone.com
-  - DOMAIN-SUFFIX,hbo.com
+ 
+  # CDNs
   - DOMAIN-SUFFIX,hbo.com.c.footprint.net
   - DOMAIN-SUFFIX,hbo.com.edgesuite.net
   - DOMAIN-SUFFIX,hbo.map.fastly.net
-  - DOMAIN-SUFFIX,hboasia.com
-  - DOMAIN-SUFFIX,hboasia1-i.akamaihd.net
-  - DOMAIN-SUFFIX,hboasia2-i.akamaihd.net
-  - DOMAIN-SUFFIX,hboasia3-i.akamaihd.net
-  - DOMAIN-SUFFIX,hboasia4-i.akamaihd.net
-  - DOMAIN-SUFFIX,hboasia5-i.akamaihd.net
-  - DOMAIN-SUFFIX,hboasialive.akamaized.net
+  - DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
+  
+  - DOMAIN-SUFFIX,conviva.com
+  - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,comhbo.com
+  - DOMAIN-SUFFIX,forthethrone.com
+  - DOMAIN-SUFFIX,mediamelon.com
+  - DOMAIN-SUFFIX,geolocation.onetrust.com
   - DOMAIN-SUFFIX,hbogeo.cust.footprint.net
-  - DOMAIN-SUFFIX,hbogo.co.th
-  - DOMAIN-SUFFIX,hbogo.com
-  - DOMAIN-SUFFIX,hbogo.eu
-  - DOMAIN-SUFFIX,hbogoasia.com
-  - DOMAIN-SUFFIX,hbogoasia.hk
-  - DOMAIN-SUFFIX,hbogoasia.id
-  - DOMAIN-SUFFIX,hbogoasia.ph
-  - DOMAIN-SUFFIX,hbogoasia.sg
-  - DOMAIN-SUFFIX,hbogoasia.tw
-  - DOMAIN-SUFFIX,hbogoprod-vod.akamaized.net
   - DOMAIN-SUFFIX,hbolb.onwardsmg.com
   
-  ## ASIA
-  - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
-  - DOMAIN,bcbolthboa-a.akamaihd.net
-  - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
-  - DOMAIN,dai3fd1oh325y.cloudfront.net
-  - DOMAIN,hboasia1-i.akamaihd.net
-  - DOMAIN,hboasia2-i.akamaihd.net
-  - DOMAIN,hboasia3-i.akamaihd.net
-  - DOMAIN,hboasia4-i.akamaihd.net
-  - DOMAIN,hboasia5-i.akamaihd.net
-  - DOMAIN,hboasialive.akamaized.net
-  - DOMAIN,hbogoprod-vod.akamaized.net
-  - DOMAIN,hbolb.onwardsmg.com
-  - DOMAIN,hbounify-prod.evergent.com
-  - DOMAIN,players.brightcove.net
-  - DOMAIN,s3-ap-southeast-1.amazonaws.com
-  - DOMAIN,wmff.warnermediacdn.com
-  - PROCESS-NAME,com.hbo.hbonow
+  # NAME: HBO
+  - DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
+  - DOMAIN-SUFFIX,hbogoprod-vod.akamaized.net
+  
+  - DOMAIN-SUFFIX,prod.boltdns.net  
+  - DOMAIN-SUFFIX,manifest.prod.boltdns.net
+  - DOMAIN-SUFFIX,ap-southeast-1.prod.boltdns.net
+
+  - DOMAIN-SUFFIX,dai3fd1oh325y.cloudfront.net
+  
+  - DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
+  - DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com
+  - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,hbounify-prod.evergent.com
+  - DOMAIN-SUFFIX,players.brightcove.net
+  - DOMAIN-SUFFIX,youboranqs01.com
+  - DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
+
+  # > Analysis
+  - DOMAIN-SUFFIX,branch.io
+  - DOMAIN,app-analytics-services.com
+  - DOMAIN,o0137140.ingest.us.sentry.io
+  - DOMAIN,out053a3bejgh7t0phqa0csou.litix.io
+  - DOMAIN,sdk.iad-01.braze.com
+  
+  #
+  - DOMAIN-SUFFIX,api.apptentive.com
+  - DOMAIN-SUFFIX,sdk.iad-01.braze.com
+  - DOMAIN-SUFFIX,wbd-api.arkoselabs.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,arkoselabs.com
+  - DOMAIN-SUFFIX,cdn.turner.com
+  - DOMAIN-SUFFIX,ngtv.io
+  - DOMAIN-SUFFIX,pypestream.com
+  
+  - IP-ASN,5662,no-resolve
+  - IP-ASN,25802,no-resolve
+  - IP-ASN,27252,no-resolve
+  - IP-ASN,36032,no-resolve
+  - IP-ASN,40703,no-resolve 
+  - IP-ASN,36032,no-resolve
+  - IP-ASN,43500,no-resolve
+  - IP-ASN,47611,no-resolve
+  - IP-ASN,62892,no-resolve
+  
+
+  - DOMAIN-SUFFIX,discovery.com
+  - DOMAIN-SUFFIX,discoveryplus.com
+  - IP-ASN,2631,no-resolve
+  - IP-ASN,23287,no-resolve

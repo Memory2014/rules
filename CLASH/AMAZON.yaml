@@ -118,41 +118,41 @@ payload:
   - DOMAIN-SUFFIX,route53.cn
   - DOMAIN-SUFFIX,sagemaker.com.cn
   
-  - IP-CIDR,18.194.0.0/15
-  - IP-CIDR,18.208.0.0/13
-  - IP-CIDR,18.232.0.0/14
-  - IP-CIDR,52.200.0.0/13
-  - IP-CIDR,52.58.0.0/15
-  - IP-CIDR,52.74.0.0/16
-  - IP-CIDR,52.77.0.0/16
-  - IP-CIDR,52.84.0.0/15
-  - IP-CIDR,54.156.0.0/14
-  - IP-CIDR,54.226.0.0/15
-  - IP-CIDR,54.230.156.0/22
-  - IP-CIDR,54.93.0.0/16
+  - IP-CIDR,18.194.0.0/15,no-resolve
+  - IP-CIDR,18.208.0.0/13,no-resolve
+  - IP-CIDR,18.232.0.0/14,no-resolve
+  - IP-CIDR,52.200.0.0/13,no-resolve
+  - IP-CIDR,52.58.0.0/15,no-resolve
+  - IP-CIDR,52.74.0.0/16,no-resolve
+  - IP-CIDR,52.77.0.0/16,no-resolve
+  - IP-CIDR,52.84.0.0/15,no-resolve
+  - IP-CIDR,54.156.0.0/14,no-resolve
+  - IP-CIDR,54.226.0.0/15,no-resolve
+  - IP-CIDR,54.230.156.0/22,no-resolve
+  - IP-CIDR,54.93.0.0/16,no-resolve
   
-  - IP-ASN,16509
-  - IP-ASN,14618
-  - IP-ASN,264344
-  - IP-ASN,8987
-  - IP-ASN,264509
-  - IP-ASN,267242
-  - IP-ASN,7224
-  - IP-ASN,266194
-  - IP-ASN,62785
-  - IP-ASN,801
-  - IP-ASN,262486
-  - IP-ASN,271017
-  - IP-ASN,26263
-  - IP-ASN,266122
-  - IP-ASN,61577
-  - IP-ASN,271047
-  - IP-ASN,264167
-  - IP-ASN,21664
-  - IP-ASN,263639
-  - IP-ASN,19047
-  - IP-ASN,274698
-  - IP-ASN,401395
+  - IP-ASN,16509,no-resolve
+  - IP-ASN,14618,no-resolve
+  - IP-ASN,264344,no-resolve
+  - IP-ASN,8987,no-resolve
+  - IP-ASN,264509,no-resolve
+  - IP-ASN,267242,no-resolve
+  - IP-ASN,7224,no-resolve
+  - IP-ASN,266194,no-resolve
+  - IP-ASN,62785,no-resolve
+  - IP-ASN,801,no-resolve
+  - IP-ASN,262486,no-resolve
+  - IP-ASN,271017,no-resolve
+  - IP-ASN,26263,no-resolve
+  - IP-ASN,266122,no-resolve
+  - IP-ASN,61577,no-resolve
+  - IP-ASN,271047,no-resolve
+  - IP-ASN,264167,no-resolve
+  - IP-ASN,21664,no-resolve
+  - IP-ASN,263639,no-resolve
+  - IP-ASN,19047,no-resolve
+  - IP-ASN,274698,no-resolve
+  - IP-ASN,401395,no-resolve
 
 
 
