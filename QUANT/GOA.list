@@ -781,3 +781,14 @@ host-suffix,wikisource.org,proxy
 host-suffix,wikiversity.org,proxy
 host-suffix,wikivoyage.org,proxy
 host-suffix,wiktionary.org,proxy
+
+
+
+# 
+host-suffix,eu,proxy
+host-suffix,hk,proxy
+host-suffix,jp,proxy
+host-suffix,kr,proxy
+host-suffix,sg,proxy
+host-suffix,tw,proxy
+host-suffix,uk,proxy
