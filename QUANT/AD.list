@@ -9,6 +9,28 @@ host-suffix,ac.dun.163.com,reject
 host-suffix,fp-upload.dun.163.com,reject
 
 
+host-suffix,66mobi.com,reject
+host-suffix,mygolbs.cn,reject
+host-suffix,funmob.cn,reject
+host-suffix,impdsp.meituan.com,reject
+host-suffix,bgg.baidu.com,reject
+host-suffix,mobads-logs.baidu.com,reject
+host-suffix,mobads.baidu.com,reject
+host-suffix,adx.adwangmai.com,reject
+host-suffix,e.qq.com,reject
+host-suffix,gdt.qq.com,reject
+
+host-suffix,luimg.baidu.com,reject
+host-suffix,wn.pos.baidu.com,reject
+host-suffix,s3plus.meituan.net,reject
+host-suffix,als.baidu.com,reject
+host-suffix,ada.baidu.com,reject
+host-suffix,ads.umeng.com,reject
+host-suffix,wcp.taobao.com,reject
+host-suffix,adview.cn,reject
+host-suffix,adx.guangshiting.top,reject
+host-suffix,guangtuikeji.com,reject
+
 host-suffix,10up.com,reject
 host-suffix,111cn.net,reject
 host-suffix,114la.com,reject
