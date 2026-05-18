@@ -1,0 +1,45 @@
+
+
+
+
+payload: 
+
+  - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,hosts.ooklaserver.net
+  - DOMAIN,speed.dler.io
+
+  - DOMAIN-SUFFIX,speedtest.contabo.net
+  - DOMAIN-SUFFIX,speed.cloudflare.com
+  
+  
+  #JP
+  - DOMAIN-SUFFIX,mbspeed.net
+  - DOMAIN-SUFFIX,denbroadband.in
+  - DOMAIN-SUFFIX,fdcservers.net
+  - DOMAIN-SUFFIX,udx.icscoe.jp
+  
+  
+  #SG Singapore
+  - DOMAIN-SUFFIX,m1net.com.sg
+  - DOMAIN,speedtest-sg1.simba.sg
+  - DOMAIN,speedtest.singnet.com.sg
+  - DOMAIN,speedtest-sin.melbicom.net
+  - DOMAIN,sg.cloudhost.asia
+  - DOMAIN,speedtest-sg.cbn.id
+  - DOMAIN,bassoon-sg-1.violin.co.th
+  - DOMAIN,speedtest-sg.cni.net.id
+  - DOMAIN,speedtest.singnet.com.sg
+  
+  - DOMAIN,speedtest.jsqiuying.com
+  - DOMAIN,beijing.unicomtest.com
+  
+  #San Diego 
+  - DOMAIN,ookla-lwe.skyriver.net
+  - DOMAIN,spd1.m5hosting.com
+  - DOMAIN,san.speedtest.sbcglobal.net
+  - DOMAIN,	spd1.m5hosting.com
+  
+  #HK
+  - DOMAIN,hk-hkg12.speed.misaka.one
+  - DOMAIN,ookla-speedtest-central.hgconair.hgc.com.hk
