@@ -475,6 +475,8 @@ host-suffix,criteo.com,reject
 
 
 
+
+
 ## Baidu
 host-suffix,a.baidu.com,reject
 host-suffix,adm.baidu.com,reject
@@ -639,4 +641,50 @@ host-suffix,prom.gome.com.cn,reject
 host-suffix,rlogs.youdao.com,reject
 host-suffix,static.flv.uuzuonline.com,reject
 host-suffix,wanproxy.127.net,reject
+
+
+
+host-suffix,zijieapi.com,reject
+host-suffix,umengcloud.com,reject
+host-suffix,ubixioe.com,reject
+host-suffix,upc.zztfly.com,reject
+host-suffix,ndcjl.com,reject
+host-suffix,adbkwai.com,reject
+host-suffix,adkwai.com,reject
+host-suffix,adukwai.com,reject
+host-suffix,52qumao.com,reject
+host-suffix,zijieapi.com,reject  # 已包含，确认无重复
+host-suffix,umeng.com,reject
+host-suffix,ecombdimg.com,reject
+host-suffix,bcebos.com,reject
+host-suffix,pangolin-sdk-toutiao.com,reject
+host-suffix,pglstatp-toutiao.com,reject
+host-suffix,api-access.pangolin-sdk-toutiao-b.com,reject
+host-suffix,mobads.baidu.com,reject
+host-suffix,mobads-logs.baidu.com,reject
+host-suffix,open.e.kuaishou.cn,reject
+host-suffix,api-bs.wtzw.com,reject
+host-suffix,drs.wtzw.com,reject
+host-suffix,drs-ipv6.wtzw.com,reject
+host-suffix,janapi.jd.com,reject
+host-suffix,xlog.jd.com,reject
+
+## B. 精准广告域 / 特定域（保留完整域名）
+host-suffix,adbiding.cn,reject
+host-suffix,e.kuaishou.com,reject
+host-suffix,rtb.julang.taobao.com,reject
+host-suffix,qttunion.com,reject
+host-suffix,qm989.com,reject
+host-suffix,p66-ad.adkwai.com,reject
+host-suffix,p2-lm.adkwai.com,reject
+host-suffix,p2-lm.adukwai.com,reject
+host-suffix,impdsp.meituan.com,reject
+host-suffix,im-x.jd.com,reject
+host-suffix,cdn-ad.wtzw.com,reject
+host-suffix,cdn-new-ad.wtzw.com,reject
+host-suffix,gdt.qq.com,reject
+
+
+
+
 
