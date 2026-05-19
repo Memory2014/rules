@@ -21,9 +21,9 @@ host-suffix,wechatlegal.net,WeChat
 host-suffix,wechatpay.com,WeChat
 
 
-IP-ASN,45090,WeChat
-IP-ASN,132203,WeChat
-IP-ASN,133478,WeChat
-IP-ASN,137876,WeChat
-IP-ASN,132591,WeChat
+ip-asn,45090,WeChat
+ip-asn,132203,WeChat
+ip-asn,133478,WeChat
+ip-asn,137876,WeChat
+ip-asn,132591,WeChat
 

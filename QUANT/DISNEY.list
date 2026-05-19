@@ -1,132 +1,132 @@
 
 # Disney+
-HOST-SUFFIX,disney.com,proxy
-HOST-SUFFIX,disneyplus.com,proxy
-HOST-SUFFIX,disney-plus.net,proxy
-HOST-SUFFIX,bamgrid.com,proxy
-HOST-SUFFIX,dssott.com,proxy
-HOST-SUFFIX,dssedge.com,proxy
-HOST-SUFFIX,starott.com,proxy
-HOST-SUFFIX,disneymediaconnect.com,proxy
-HOST-SUFFIX,streamingdisney.net,proxy
-HOST-SUFFIX,dmed.technology,proxy
-HOST-SUFFIX,dtci.co,proxy
-HOST-SUFFIX,dtci.technology,proxy
-HOST-SUFFIX,disney.co.jp,proxy
+host-suffix,disney.com,proxy
+host-suffix,disneyplus.com,proxy
+host-suffix,disney-plus.net,proxy
+host-suffix,bamgrid.com,proxy
+host-suffix,dssott.com,proxy
+host-suffix,dssedge.com,proxy
+host-suffix,starott.com,proxy
+host-suffix,disneymediaconnect.com,proxy
+host-suffix,streamingdisney.net,proxy
+host-suffix,dmed.technology,proxy
+host-suffix,dtci.co,proxy
+host-suffix,dtci.technology,proxy
+host-suffix,disney.co.jp,proxy
 
 # CDN
-HOST-SUFFIX,bamgrid.com,proxy
-HOST-SUFFIX,bam.nr-data.net,proxy
-HOST-SUFFIX,disney-content.net,proxy
-HOST-SUFFIX,disney-studio.net,proxy
+host-suffix,bamgrid.com,proxy
+host-suffix,bam.nr-data.net,proxy
+host-suffix,disney-content.net,proxy
+host-suffix,disney-studio.net,proxy
 
-HOST-SUFFIX,disneyid.com,proxy
+host-suffix,disneyid.com,proxy
 
 # Disney+ components
-HOST-SUFFIX,disney.my.sentry.io,proxy
-HOST-SUFFIX,disney-portal.my.onetrust.com,proxy
-HOST-SUFFIX,mobile-data.onetrust.io,proxy
-HOST-SUFFIX,cdn.cookielaw.org,proxy
-HOST-SUFFIX,bam.nr-data.net,proxy
-HOST-SUFFIX,js-agent.newrelic.com,proxy
-HOST-SUFFIX,cws.conviva.com,proxy
-HOST-SUFFIX,cdn.registerdisney.go.com,proxy
-HOST-SUFFIX,conviva.com,proxy
-HOST-SUFFIX,braze.com,proxy
-HOST-SUFFIX,cdn.optimizely.com,proxy
-HOST-SUFFIX,dilcdn.com,proxy
-HOST-SUFFIX,dlp-media.com,proxy
+host-suffix,disney.my.sentry.io,proxy
+host-suffix,disney-portal.my.onetrust.com,proxy
+host-suffix,mobile-data.onetrust.io,proxy
+host-suffix,cdn.cookielaw.org,proxy
+host-suffix,bam.nr-data.net,proxy
+host-suffix,js-agent.newrelic.com,proxy
+host-suffix,cws.conviva.com,proxy
+host-suffix,cdn.registerdisney.go.com,proxy
+host-suffix,conviva.com,proxy
+host-suffix,braze.com,proxy
+host-suffix,cdn.optimizely.com,proxy
+host-suffix,dilcdn.com,proxy
+host-suffix,dlp-media.com,proxy
 
 # Disney+ AD
-HOST-SUFFIX,adobedtm.com,proxy
-HOST-SUFFIX,d9.flashtalking.com,proxy
-HOST-SUFFIX,disneyplus.bn5x.net,proxy
+host-suffix,adobedtm.com,proxy
+host-suffix,d9.flashtalking.com,proxy
+host-suffix,disneyplus.bn5x.net,proxy
 
 # Hulu
-HOST-SUFFIX,hulu.com,proxy
-HOST-SUFFIX,huluim.com,proxy
-HOST-SUFFIX,hulustream.com,proxy
+host-suffix,hulu.com,proxy
+host-suffix,huluim.com,proxy
+host-suffix,hulustream.com,proxy
 
 # ESPN
-HOST-SUFFIX,espn.com,proxy
-HOST-SUFFIX,espn.net,proxy
-HOST-SUFFIX,espncdn.com,proxy
-HOST-SUFFIX,watchespn.com,proxy
-HOST-SUFFIX,espnqa.com,proxy
+host-suffix,espn.com,proxy
+host-suffix,espn.net,proxy
+host-suffix,espncdn.com,proxy
+host-suffix,watchespn.com,proxy
+host-suffix,espnqa.com,proxy
 
 # Star+
-HOST-SUFFIX,starplus.com,proxy
-HOST-SUFFIX,thestar.com,proxy
-HOST-SUFFIX,starplus.com,proxy
-HOST-SUFFIX,star-latam.com,proxy
-HOST-SUFFIX,star-brasil.com,proxy
-HOST-SUFFIX,20thcenturystudios.jp,proxy
+host-suffix,starplus.com,proxy
+host-suffix,thestar.com,proxy
+host-suffix,starplus.com,proxy
+host-suffix,star-latam.com,proxy
+host-suffix,star-brasil.com,proxy
+host-suffix,20thcenturystudios.jp,proxy
 
 # Disney+ Hotstar
-HOST-SUFFIX,hotstar.com,proxy
-HOST-SUFFIX,hotstar-cdn.net,proxy
-HOST-SUFFIX,hotstar-labs.com,proxy
-HOST-SUFFIX,hotstarext.com,proxy
+host-suffix,hotstar.com,proxy
+host-suffix,hotstar-cdn.net,proxy
+host-suffix,hotstar-labs.com,proxy
+host-suffix,hotstarext.com,proxy
 
 # ABC
-HOST-SUFFIX,abc.com,proxy
-HOST-SUFFIX,abc-studios.com,proxy
-HOST-SUFFIX,abcnews.com,proxy
-HOST-SUFFIX,go.com,proxy
-HOST-SUFFIX,edgedatg.com,proxy
-HOST-SUFFIX,watchdisneyfe.com,proxy
+host-suffix,abc.com,proxy
+host-suffix,abc-studios.com,proxy
+host-suffix,abcnews.com,proxy
+host-suffix,go.com,proxy
+host-suffix,edgedatg.com,proxy
+host-suffix,watchdisneyfe.com,proxy
 
 # 
-HOST-SUFFIX,thewaltdisneycompany.com,proxy
-HOST-SUFFIX,pixar.com,proxy
-HOST-SUFFIX,marvel.com,proxy
-HOST-SUFFIX,starwars.com,proxy
-HOST-SUFFIX,starwarskids.com,proxy
-HOST-SUFFIX,nationalgeographic.com,proxy
-HOST-SUFFIX,nationalgeographicpartners.com,proxy
-HOST-SUFFIX,natgeomaps.com,proxy
-HOST-SUFFIX,ngeo.com,proxy
-HOST-SUFFIX,moviesanywhere.com,proxy
-HOST-SUFFIX,mickey.tv,proxy
-HOST-SUFFIX,shopdisney.com,proxy
-HOST-SUFFIX,shops-disney.com,proxy
-HOST-SUFFIX,adventuresbydisney.com,proxy
-HOST-SUFFIX,disneystore.com,proxy
-HOST-SUFFIX,disney.com,proxy
-HOST-SUFFIX,disney.dev,proxy
-HOST-SUFFIX,disney.io,proxy
-HOST-SUFFIX,disney.ja,proxy
-HOST-SUFFIX,waltdisney.com,proxy
-HOST-SUFFIX,disneyparks.com,proxy
-HOST-SUFFIX,disneyworld.com,proxy
-HOST-SUFFIX,disneyland.com,proxy
-HOST-SUFFIX,disneycruise.com,proxy
+host-suffix,thewaltdisneycompany.com,proxy
+host-suffix,pixar.com,proxy
+host-suffix,marvel.com,proxy
+host-suffix,starwars.com,proxy
+host-suffix,starwarskids.com,proxy
+host-suffix,nationalgeographic.com,proxy
+host-suffix,nationalgeographicpartners.com,proxy
+host-suffix,natgeomaps.com,proxy
+host-suffix,ngeo.com,proxy
+host-suffix,moviesanywhere.com,proxy
+host-suffix,mickey.tv,proxy
+host-suffix,shopdisney.com,proxy
+host-suffix,shops-disney.com,proxy
+host-suffix,adventuresbydisney.com,proxy
+host-suffix,disneystore.com,proxy
+host-suffix,disney.com,proxy
+host-suffix,disney.dev,proxy
+host-suffix,disney.io,proxy
+host-suffix,disney.ja,proxy
+host-suffix,waltdisney.com,proxy
+host-suffix,disneyparks.com,proxy
+host-suffix,disneyworld.com,proxy
+host-suffix,disneyland.com,proxy
+host-suffix,disneycruise.com,proxy
 
 # CN
-HOST-SUFFIX,disney.cn,proxy
-HOST-SUFFIX,shanghaidisneyresort.com,proxy
-HOST-SUFFIX,shanghaidisneyresort.com.cn,proxy
+host-suffix,disney.cn,proxy
+host-suffix,shanghaidisneyresort.com,proxy
+host-suffix,shanghaidisneyresort.com.cn,proxy
 
-HOST-KEYWORD,disney,proxy
-HOST-KEYWORD,disneyplus,proxy
+host-keyworddisney,proxy
+host-keyworddisneyplus,proxy
   
-IP-ASN,8137,proxy
-IP-ASN,11251,proxy
-IP-ASN,13379,proxy
-IP-ASN,15260,proxy
-IP-ASN,22604,proxy
-IP-ASN,23344,proxy
-IP-ASN,25932,proxy
-IP-ASN,29736,proxy
-IP-ASN,30224,proxy
-IP-ASN,30311,proxy
-IP-ASN,40051,proxy
-IP-ASN,46557,proxy
-IP-ASN,53578,proxy
-IP-ASN,54330,proxy
-IP-ASN,140693,proxy
-IP-ASN,205757,proxy
-IP-ASN,396054,proxy
-IP-ASN,399344,proxy
-IP-ASN,399340,proxy
-IP-ASN,400265,proxy
+ip-asn,8137,proxy
+ip-asn,11251,proxy
+ip-asn,13379,proxy
+ip-asn,15260,proxy
+ip-asn,22604,proxy
+ip-asn,23344,proxy
+ip-asn,25932,proxy
+ip-asn,29736,proxy
+ip-asn,30224,proxy
+ip-asn,30311,proxy
+ip-asn,40051,proxy
+ip-asn,46557,proxy
+ip-asn,53578,proxy
+ip-asn,54330,proxy
+ip-asn,140693,proxy
+ip-asn,205757,proxy
+ip-asn,396054,proxy
+ip-asn,399344,proxy
+ip-asn,399340,proxy
+ip-asn,400265,proxy
