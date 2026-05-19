@@ -2,10 +2,29 @@
 
 
 payload:
-
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple.com.cn
-  - DOMAIN-KEYWORD,beat
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,apple-dns.net
+  - DOMAIN-SUFFIX,apple-mapkit.com
+  - DOMAIN-SUFFIX,itunes.com
+  - DOMAIN-SUFFIX,me.com
+  - DOMAIN-SUFFIX,mac.com
+  - DOMAIN-SUFFIX,shazam.com
+  - DOMAIN-SUFFIX,beatsaudio.com
+  - DOMAIN-SUFFIX,beatsbydre.com
+  - DOMAIN-SUFFIX,testflightapp.com
+  - DOMAIN-SUFFIX,swift.org
+  - DOMAIN-SUFFIX,webkit.org
+  - DOMAIN-SUFFIX,iphone.com
+  - DOMAIN-SUFFIX,ipad.com
+  
+  - DOMAIN-SUFFIX,mzstatic.com
+  - DOMAIN-SUFFIX,apple-cloudkit.com
+  - DOMAIN-SUFFIX,apple-support.org
+  
+  - DOMAIN-SUFFIX,apple
+
   - DOMAIN-KEYWORD,beats
   - DOMAIN-KEYWORD,appleid
   - DOMAIN-KEYWORD,appleone
@@ -18,14 +37,11 @@ payload:
   - DOMAIN-KEYWORD,ibook
   - DOMAIN-KEYWORD,applemusic
   - DOMAIN-KEYWORD,macbook
-  - DOMAIN-KEYWORD,ipod
   - DOMAIN-KEYWORD,imac
   - DOMAIN-KEYWORD,ipad
   - DOMAIN-KEYWORD,iphone
   - DOMAIN-KEYWORD,itunes
   - DOMAIN-KEYWORD,apple
-  - DOMAIN-KEYWORD,apple.com
-  - DOMAIN-KEYWORD,itunes.apple.com
   - DOMAIN-KEYWORD,smp-device
   - DOMAIN-KEYWORD,testflight
 

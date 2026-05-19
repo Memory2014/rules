@@ -1,9 +1,30 @@
   
-  
+
   
 HOST-SUFFIX,apple.com,Apple
 HOST-SUFFIX,apple.com.cn,Apple
-HOST-KEYWORD,beat,Apple
+HOST-SUFFIX,apple.com,Apple
+HOST-SUFFIX,icloud.com,Apple
+HOST-SUFFIX,apple-dns.net,Apple
+HOST-SUFFIX,apple-mapkit.com,Apple
+HOST-SUFFIX,itunes.com,Apple
+HOST-SUFFIX,me.com,Apple
+HOST-SUFFIX,mac.com,Apple
+HOST-SUFFIX,shazam.com,Apple
+HOST-SUFFIX,beatsaudio.com,Apple
+HOST-SUFFIX,beatsbydre.com,Apple
+HOST-SUFFIX,testflightapp.com,Apple
+HOST-SUFFIX,swift.org,Apple
+HOST-SUFFIX,webkit.org,Apple
+HOST-SUFFIX,iphone.com,Apple
+HOST-SUFFIX,ipad.com,Apple
+
+HOST-SUFFIX,apple,Apple
+
+HOST-SUFFIX,mzstatic.com
+HOST-SUFFIX,apple-cloudkit.com
+HOST-SUFFIX,apple-support.org
+
 HOST-KEYWORD,beats,Apple
 HOST-KEYWORD,appleid,Apple
 HOST-KEYWORD,appleone,Apple
@@ -16,14 +37,11 @@ HOST-KEYWORD,imovie,Apple
 HOST-KEYWORD,ibook,Apple
 HOST-KEYWORD,applemusic,Apple
 HOST-KEYWORD,macbook,Apple
-HOST-KEYWORD,ipod,Apple
 HOST-KEYWORD,imac,Apple
 HOST-KEYWORD,ipad,Apple
 HOST-KEYWORD,iphone,Apple
 HOST-KEYWORD,itunes,Apple
 HOST-KEYWORD,apple,Apple
-HOST-KEYWORD,apple.com,Apple
-HOST-KEYWORD,itunes.apple.com,Apple
 HOST-KEYWORD,smp-device,Apple
 HOST-KEYWORD,testflight,Apple
 

@@ -1,41 +1,41 @@
 # NAME: Facebook
 
-HOST-KEYWORD,instagram, proxy
-HOST-KEYWORD,facebook, proxy
-HOST-KEYWORD,fbcdn, proxy
-HOST-KEYWORD,instagram, proxy
-HOST-KEYWORD,whatsapp, proxy
+HOST-KEYWORD,instagram,proxy
+HOST-KEYWORD,facebook,proxy
+HOST-KEYWORD,fbcdn,proxy
+HOST-KEYWORD,instagram,proxy
+HOST-KEYWORD,whatsapp,proxy
 
 HOST-SUFFIX,cdninstagram.com,proxy
 HOST-SUFFIX,instagr.am,proxy
 HOST-SUFFIX,instagram.com,proxy
-HOST-SUFFIX,fb.com, proxy
-HOST-SUFFIX,fb.me, proxy
-HOST-SUFFIX,facebook.com, proxy
-HOST-SUFFIX,fbcdn.com, proxy
-HOST-SUFFIX,fbcdn.net, proxy
-HOST-SUFFIX,flow.dev, proxy
-HOST-SUFFIX,flow.org, proxy
-HOST-SUFFIX,groups.com, proxy
-HOST-SUFFIX,i.org, proxy
-HOST-SUFFIX,ig.me, proxy
-HOST-SUFFIX,igcdn.com, proxy
-HOST-SUFFIX,igtv.com, proxy
-HOST-SUFFIX,instagra.com, proxy
-HOST-SUFFIX,m.me, proxy
-HOST-SUFFIX,messenger.com, proxy
-HOST-SUFFIX,messengerdevelopers.com, proxy
-HOST-SUFFIX,meta.com, proxy
-HOST-SUFFIX,ogp.me, proxy
-HOST-SUFFIX,oninstagram.com, proxy
-HOST-SUFFIX,react.com, proxy
-HOST-SUFFIX,reactjs.com, proxy
-HOST-SUFFIX,reactjs.org, proxy
-HOST-SUFFIX,recoiljs.org, proxy
-HOST-SUFFIX,redkix.com, proxy
-HOST-SUFFIX,wa.me, proxy
-HOST-SUFFIX,web-instagram.net, proxy
-HOST-SUFFIX,whatsapp.com, proxy
+HOST-SUFFIX,fb.com,proxy
+HOST-SUFFIX,fb.me,proxy
+HOST-SUFFIX,facebook.com,proxy
+HOST-SUFFIX,fbcdn.com,proxy
+HOST-SUFFIX,fbcdn.net,proxy
+HOST-SUFFIX,flow.dev,proxy
+HOST-SUFFIX,flow.org,proxy
+HOST-SUFFIX,groups.com,proxy
+HOST-SUFFIX,i.org,proxy
+HOST-SUFFIX,ig.me,proxy
+HOST-SUFFIX,igcdn.com,proxy
+HOST-SUFFIX,igtv.com,proxy
+HOST-SUFFIX,instagra.com,proxy
+HOST-SUFFIX,m.me,proxy
+HOST-SUFFIX,messenger.com,proxy
+HOST-SUFFIX,messengerdevelopers.com,proxy
+HOST-SUFFIX,meta.com,proxy
+HOST-SUFFIX,ogp.me,proxy
+HOST-SUFFIX,oninstagram.com,proxy
+HOST-SUFFIX,react.com,proxy
+HOST-SUFFIX,reactjs.com,proxy
+HOST-SUFFIX,reactjs.org,proxy
+HOST-SUFFIX,recoiljs.org,proxy
+HOST-SUFFIX,redkix.com,proxy
+HOST-SUFFIX,wa.me,proxy
+HOST-SUFFIX,web-instagram.net,proxy
+HOST-SUFFIX,whatsapp.com,proxy
 
 
 IP-ASN,32934,proxy
