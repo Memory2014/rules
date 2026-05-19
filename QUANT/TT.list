@@ -5,28 +5,28 @@ host-keyword,telegram,proxy
 
 host,api.imem.app,proxy
 host,api.swiftgram.app,proxy
-host-suffixcdn-telegram.org,proxy
-host-suffixcomments.app,proxy
-host-suffixcontest.com,proxy
-host-suffixgraph.org,proxy
-host-suffixlegra.ph,proxy
-host-suffixmbrx.app,proxy
-host-suffixquiz.directory,proxy
-host-suffixstel.com,proxy
-host-suffixt.me,proxy
-host-suffixtdesktop.com,proxy
-host-suffixtelega.one,proxy
-host-suffixtelegra.ph,proxy
-host-suffixtelegram-cdn.org,proxy
-host-suffixtelegram.dog,proxy
-host-suffixtelegram.me,proxy
-host-suffixtelegram.org,proxy
-host-suffixtelegram.space,proxy
-host-suffixtelegramdownload.com,proxy
-host-suffixtelesco.pe,proxy
-host-suffixtg.dev,proxy
-host-suffixtx.me,proxy
-host-suffixusercontent.dev,proxy
+host-suffix,cdn-telegram.org,proxy
+host-suffix,comments.app,proxy
+host-suffix,contest.com,proxy
+host-suffix,graph.org,proxy
+host-suffix,legra.ph,proxy
+host-suffix,mbrx.app,proxy
+host-suffix,quiz.directory,proxy
+host-suffix,stel.com,proxy
+host-suffix,t.me,proxy
+host-suffix,tdesktop.com,proxy
+host-suffix,telega.one,proxy
+host-suffix,telegra.ph,proxy
+host-suffix,telegram-cdn.org,proxy
+host-suffix,telegram.dog,proxy
+host-suffix,telegram.me,proxy
+host-suffix,telegram.org,proxy
+host-suffix,telegram.space,proxy
+host-suffix,telegramdownload.com,proxy
+host-suffix,telesco.pe,proxy
+host-suffix,tg.dev,proxy
+host-suffix,tx.me,proxy
+host-suffix,usercontent.dev,proxy
 
 ip-cidr,5.28.192.0/18,proxy
 ip-cidr,109.239.140.0/24,proxy
@@ -47,26 +47,26 @@ ip-asn,62041, proxy
 # NAME: Twitter
 
 host-keyword,twitter,proxy
-host-suffixtwitter.biz,proxy
-host-suffixtwitter.com,proxy
-host-suffixads-twitter.com, proxy
-host-suffixcms-twdigitalassets.com, proxy
-host-suffixgrok.com, proxy
-host-suffixperiscope.tv, proxy
-host-suffixpscp.tv, proxy
-host-suffixt.co, proxy
-host-suffixtellapart.com, proxy
-host-suffixtweetdeck.com, proxy
-host-suffixtwimg.co, proxy
-host-suffixtwimg.com, proxy
-host-suffixtwimg.org, proxy
-host-suffixtwitpic.com, proxy
-host-suffixtwtrdns.net, proxy
-host-suffixtwttr.com, proxy
-host-suffixtwttr.net, proxy
-host-suffixtwvid.com, proxy
-host-suffixvine.co, proxy
-host-suffixx.com, proxy
+host-suffix,twitter.biz,proxy
+host-suffix,twitter.com,proxy
+host-suffix,ads-twitter.com, proxy
+host-suffix,cms-twdigitalassets.com, proxy
+host-suffix,grok.com, proxy
+host-suffix,periscope.tv, proxy
+host-suffix,pscp.tv, proxy
+host-suffix,t.co, proxy
+host-suffix,tellapart.com, proxy
+host-suffix,tweetdeck.com, proxy
+host-suffix,twimg.co, proxy
+host-suffix,twimg.com, proxy
+host-suffix,twimg.org, proxy
+host-suffix,twitpic.com, proxy
+host-suffix,twtrdns.net, proxy
+host-suffix,twttr.com, proxy
+host-suffix,twttr.net, proxy
+host-suffix,twvid.com, proxy
+host-suffix,vine.co, proxy
+host-suffix,x.com, proxy
 
 ip-asn,13414,proxy
 ip-asn,35995,proxy
@@ -74,16 +74,16 @@ ip-asn,54888,proxy
 ip-asn,63179,proxy
 
 #tumblr
-host-suffixtmblr.co, proxy
-host-suffixtumblr.co, proxy
-host-suffixtumblr.com, proxy
+host-suffix,tmblr.co, proxy
+host-suffix,tumblr.co, proxy
+host-suffix,tumblr.com, proxy
 
 #reddit
-host-suffixredd.it,proxy
-host-suffixreddit.com,proxy
-host-suffixredditmail.com,proxy
-host-suffixredditmedia.com,proxy
-host-suffixredditstatic.com,proxy
-host-suffixreddituploads.com,proxy
-host-suffixreddituploads.com.cdn-cf.behance.net,proxy
-host-suffixreddituploads.com.cdn-cf.dropbox.com,proxy
+host-suffix,redd.it,proxy
+host-suffix,reddit.com,proxy
+host-suffix,redditmail.com,proxy
+host-suffix,redditmedia.com,proxy
+host-suffix,redditstatic.com,proxy
+host-suffix,reddituploads.com,proxy
+host-suffix,reddituploads.com.cdn-cf.behance.net,proxy
+host-suffix,reddituploads.com.cdn-cf.dropbox.com,proxy
