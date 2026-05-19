@@ -31,17 +31,17 @@ HOST-SUFFIX,gstaticcnapps.cn,Google
 HOST-SUFFIX,gvt1-cn.com,Google
 HOST-SUFFIX,gvt2-cn.com,Google
 HOST-SUFFIX,recaptcha-cn.net,Google
-HOST-SUFFIX,recaptcha.net
+HOST-SUFFIX,recaptcha.net,Google
 
 # Google 核心与高频服务
 # --- 核心存储与大流量内容托管
 HOST-SUFFIX,googledrive.com,Google
-HOST-SUFFIX,googleusercontent.com
+HOST-SUFFIX,googleusercontent.com,Google
 
 # --- 无服务器容器与 Web 托管 (Serverless)
 HOST-SUFFIX,appspot.com,Google
 HOST-SUFFIX,run.app,Google
-HOST-SUFFIX,web.app
+HOST-SUFFIX,web.app,Google
 
 # --- 移动端统计、分析与崩溃打点 (Firebase / Crashlytics)
 HOST-SUFFIX,app-measurement.com,Google
@@ -49,7 +49,7 @@ HOST-SUFFIX,app-measurement.net,Google
 HOST-SUFFIX,crashlytics.com,Google
 HOST-SUFFIX,firebaseapp.com,Google
 HOST-SUFFIX,firebaseio.com,Google
-HOST-SUFFIX,flutterapp.com
+HOST-SUFFIX,flutterapp.com,Google
 
 # --- 系统内核、前沿科技与 AI 生态
 HOST-SUFFIX,android.com,Google
@@ -63,7 +63,7 @@ HOST-SUFFIX,deepmind.com,Google
 HOST-SUFFIX,dialogflow.com,Google
 HOST-SUFFIX,fuchsia.dev,Google
 HOST-SUFFIX,tensorflow.org,Google
-HOST-SUFFIX,tfhub.dev
+HOST-SUFFIX,tfhub.dev,Google
 
 # --- 开发者框架、工具与开源项目
 HOST-SUFFIX,amp.dev,Google
@@ -133,7 +133,7 @@ HOST-SUFFIX,wallet.com,Google
 HOST-SUFFIX,waymo.com,Google
 HOST-SUFFIX,waze.com,Google
 HOST-SUFFIX,web.dev,Google
-HOST-SUFFIX,withgoogle.com
+HOST-SUFFIX,withgoogle.com,Google
 
 # --- 广告、商业与底层调度库
 HOST-SUFFIX,265.com,Google
@@ -155,7 +155,7 @@ HOST-SUFFIX,gvt2.com,Google
 HOST-SUFFIX,pki.goog,Google
 HOST-SUFFIX,privacysandbox.com,Google
 HOST-SUFFIX,registry.google,Google
-HOST-SUFFIX,thinkwithgoogle.com
+HOST-SUFFIX,thinkwithgoogle.com,Google
 
 
 IP-ASN,6432,Google

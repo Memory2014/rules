@@ -28,37 +28,20 @@ HOST-SUFFIX,tg.dev,proxy
 HOST-SUFFIX,tx.me,proxy
 HOST-SUFFIX,usercontent.dev,proxy
 
+IP-CIDR,5.28.192.0/18,proxy
 IP-CIDR,109.239.140.0/24,proxy
 IP-CIDR,139.59.210.98/32,proxy
-IP-CIDR,149.154.160.0/20,proxy
 IP-CIDR,196.55.216.167/32,proxy
-IP-CIDR,5.28.192.0/18,proxy
 IP-CIDR,91.108.0.0/16,proxy
-IP6-CIDR,2001:67c:4e8::/48,proxy
-IP6-CIDR,2001:b28:f23c::/47,proxy
-IP6-CIDR,2001:b28:f23f::/48,proxy
-IP6-CIDR,2a0a:f280::/29,proxy
 
-IP-CIDR,149.154.160.0/20, proxy
-IP-CIDR,91.108.4.0/22, proxy
-IP-CIDR,91.108.8.0/22, proxy
-IP6-CIDR,2001:67c:4e8::/48, proxy
 IP6-CIDR,2001:b28:f23c::/48, proxy
-
-IP-CIDR,91.108.16.0/22, proxy
-IP-CIDR,91.108.56.0/22, proxy
-IP6-CIDR,2001:b28:f23f::/48, proxy
-
-IP-CIDR,91.108.12.0/22, proxy
-IP6-CIDR,2001:b28:f23d::/48, proxy
+IP6-CIDR,2a0a:f280::/29,proxy
 
 IP-ASN,211157, proxy
 IP-ASN,44907, proxy
 IP-ASN,59930, proxy
 IP-ASN,62014, proxy
 IP-ASN,62041, proxy
-
-
 
 
 # NAME: Twitter
@@ -90,15 +73,10 @@ IP-ASN,35995,proxy
 IP-ASN,54888,proxy
 IP-ASN,63179,proxy
 
-
-
-
 #tumblr
 HOST-SUFFIX,tmblr.co, proxy
 HOST-SUFFIX,tumblr.co, proxy
 HOST-SUFFIX,tumblr.com, proxy
-
-
 
 #reddit
 HOST-SUFFIX,redd.it,proxy
