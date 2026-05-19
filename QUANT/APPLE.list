@@ -21,9 +21,9 @@ HOST-SUFFIX,ipad.com,Apple
 
 HOST-SUFFIX,apple,Apple
 
-HOST-SUFFIX,mzstatic.com
-HOST-SUFFIX,apple-cloudkit.com
-HOST-SUFFIX,apple-support.org
+HOST-SUFFIX,mzstatic.com,Apple
+HOST-SUFFIX,apple-cloudkit.com,Apple
+HOST-SUFFIX,apple-support.org,Apple
 
 HOST-KEYWORD,beats,Apple
 HOST-KEYWORD,appleid,Apple
