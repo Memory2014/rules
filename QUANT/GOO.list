@@ -107,7 +107,7 @@ HOST-SUFFIX,v8project.org,Google
 HOST-SUFFIX,webmproject.org,Google
 HOST-SUFFIX,webpkgcache.com,Google
 HOST-SUFFIX,webrtc.org,Google
-HOST-SUFFIX,widevine.com
+HOST-SUFFIX,widevine.com,Google
 
 # --- 谷歌日常应用、博客与超短域名
 HOST-SUFFIX,abc.xyz,Google
