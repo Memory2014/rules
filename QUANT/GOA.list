@@ -713,6 +713,9 @@ host-suffix,github.io,proxy
 host-suffix,windy.com,proxy
 host-suffix,gvdb.com,proxy
 host-suffix,cloudflareinsights.com,proxy
+host-suffix,grindr.mobi,proxy
+host-suffix,grindr.com,proxy
+host-suffix,scruffapp.com,proxy
 
 #discord
 host-suffix,discord.co,proxy
@@ -734,9 +737,6 @@ host-suffix,casalemedia.com,proxy
 host-suffix,rapidedge.io,proxy
 host-suffix,ketchjs.com,proxy
 host-suffix,accuweather.com,proxy
-host-suffix,gvdb.org,proxy
-host-suffix,cloudflareinsights.com,proxy
-
 
 
 # Developer 
