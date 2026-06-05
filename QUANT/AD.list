@@ -29,7 +29,8 @@ host-suffix,adjust.com,reject
 host-suffix,adjust.net,reject
 host-suffix,adjust.com,reject
 host-suffix,adjust.io,reject
-host-suffix,appsflyersdksdk.com,reject
+host-suffix,appsflyersdk.com,reject
+host-suffix,everestop.io,reject
 host-suffix,inner-active.mobi,reject
 host-suffix,app-analytics-services.com,reject
 host-suffix,app-analytics-services-att.com,reject
