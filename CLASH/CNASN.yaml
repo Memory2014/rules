@@ -1012,4 +1012,62 @@ payload:
 - IP-ASN,131526,DIRECT,no-resolve     
 - IP-ASN,131521,DIRECT,no-resolve     
 - IP-ASN,131171,DIRECT,no-resolve     
-- IP-ASN,131137,DIRECT,no-resolve     
+- IP-ASN,131137,DIRECT,no-resolve   
+
+
+
+
+
+
+  
+  
+# TENCENT
+- IP-ASN,45090,DIRECT,no-resolve   
+- IP-ASN,132203,DIRECT,no-resolve   
+- IP-ASN,137876,DIRECT,no-resolve   
+- IP-ASN,133478,DIRECT,no-resolve   
+
+#HUWEI
+- IP-ASN,55990,DIRECT,no-resolve   
+- IP-ASN,63727,DIRECT,no-resolve   
+#HK
+- IP-ASN,136907,DIRECT,no-resolve   
+#SG
+- IP-ASN,141180,DIRECT,no-resolve   
+- IP-ASN,149167,DIRECT,no-resolve   
+- IP-ASN,149640,DIRECT,no-resolve   
+
+#BAIDU
+- IP-ASN,38365,DIRECT,no-resolve   
+- IP-ASN,55967,DIRECT,no-resolve   
+- IP-ASN,38627,DIRECT,no-resolve   
+
+#360
+- IP-ASN,55992,DIRECT,no-resolve   
+
+#Kingsoft
+- IP-ASN,59019,DIRECT,no-resolve   
+#HK
+- IP-ASN,137280,DIRECT,no-resolve   
+
+#JD
+- IP-ASN,131486,DIRECT,no-resolve   
+- IP-ASN,137753,DIRECT,no-resolve   
+- IP-ASN,137787,DIRECT,no-resolve   
+
+#NetEase
+- IP-ASN,45062,DIRECT,no-resolve   
+#TW
+- IP-ASN,131659,DIRECT,no-resolve   
+#HK
+- IP-ASN,137263,DIRECT,no-resolve   
+
+#Alibaba
+- IP-ASN,24429,DIRECT,no-resolve   
+- IP-ASN,37963,DIRECT,no-resolve   
+- IP-ASN,34947,DIRECT,no-resolve   
+- IP-ASN,45102,DIRECT,no-resolve   
+#SG
+- IP-ASN,134963,DIRECT,no-resolve   
+- IP-ASN,203513,DIRECT,no-resolve   
+- IP-ASN,211914,DIRECT,no-resolve   

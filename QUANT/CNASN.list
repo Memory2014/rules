@@ -1,4 +1,56 @@
 
+# TENCENT
+ip-asn,45090,direct  
+ip-asn,132203,direct 
+ip-asn,137876,direct 
+ip-asn,133478,direct 
+
+#HUWEI
+ip-asn,55990,direct 
+ip-asn,63727,direct 
+#HK
+ip-asn,136907,direct 
+#SG
+ip-asn,141180,direct 
+ip-asn,149167,direct 
+ip-asn,149640,direct 
+
+#BAIDU
+ip-asn,38365,direct 
+ip-asn,55967,direct 
+ip-asn,38627,direct 
+
+#360
+ip-asn,55992,direct 
+
+#Kingsoft
+ip-asn,59019,direct 
+#HK
+ip-asn,137280,direct 
+
+#JD
+ip-asn,131486,direct 
+ip-asn,137753,direct 
+ip-asn,137787,direct 
+
+#NetEase
+ip-asn,45062,direct 
+#TW
+ip-asn,131659,direct 
+#HK
+ip-asn,137263,direct 
+
+#Alibaba
+ip-asn,24429,direct 
+ip-asn,37963,direct 
+ip-asn,34947,direct 
+ip-asn,45102,direct 
+#SG
+ip-asn,134963,direct 
+ip-asn,203513,direct 
+ip-asn,211914,direct 
+
+
 
 
 
