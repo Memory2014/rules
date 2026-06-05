@@ -64,20 +64,20 @@ host-suffix,hbomaxdash.s.llnwi.net,proxy
 
 # > Analysis
 host-suffix,branch.io,proxy
-host,app-analytics-services.com,proxy
 host,o0137140.ingest.us.sentry.io,proxy
 host,out053a3bejgh7t0phqa0csou.litix.io,proxy
-host,sdk.iad-01.braze.com,proxy
+#host,sdk.iad-01.braze.com,proxy
+#host,app-analytics-services.com,proxy
   
 #
 host-suffix,api.apptentive.com,proxy
-host-suffix,sdk.iad-01.braze.com,proxy
 host-suffix,wbd-api.arkoselabs.com,proxy
-host-suffix,appsflyersdk.com,proxy
 host-suffix,arkoselabs.com,proxy
 host-suffix,cdn.turner.com,proxy
 host-suffix,ngtv.io,proxy
 host-suffix,pypestream.com,proxy
+#host-suffix,sdk.iad-01.braze.com,proxy
+#host-suffix,appsflyersdk.com,proxy
   
 ip-asn,5662,proxy
 ip-asn,25802,proxy

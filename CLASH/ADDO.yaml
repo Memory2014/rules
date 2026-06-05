@@ -773,6 +773,11 @@ payload:
   - '+.adjust.com'
   - '+.4dvertible.com'
   - '+.kayzen.io'
+  
+  - '+.blueduckredapple.com'
+  - '+.thecatmachine.com'
+  - '+.anuncia-adtech.com'
+
   - '+.ep2.adtrafficquality.google'
   - '+.imasdk.googleapis.com'
   - '+.ep7.facebook.com'
