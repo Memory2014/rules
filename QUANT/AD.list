@@ -34,6 +34,7 @@ host-suffix,everestop.io,reject
 host-suffix,inner-active.mobi,reject
 host-suffix,app-analytics-services.com,reject
 host-suffix,app-analytics-services-att.com,reject
+host-suffix,blueduckredapple.com,reject
 
 host-suffix,rayjump.com,reject
 host-suffix,mosspf.net,reject
