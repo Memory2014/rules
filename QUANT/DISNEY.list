@@ -107,8 +107,8 @@ host-suffix,disney.cn,proxy
 host-suffix,shanghaidisneyresort.com,proxy
 host-suffix,shanghaidisneyresort.com.cn,proxy
 
-host-keyworddisney,proxy
-host-keyworddisneyplus,proxy
+host-keyword,disney,proxy
+host-keyword,disneyplus,proxy
   
 ip-asn,8137,proxy
 ip-asn,11251,proxy
