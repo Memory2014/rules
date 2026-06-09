@@ -71,6 +71,32 @@ host-suffix,ep7.facebook.com,reject
 host-suffix,ep2.facebook.com,reject
 
 
+host-suffix,taboola.com,reject
+host-suffix,app-ads-services.com,reject 
+host-suffix,adsafeprotected.com,reject 
+host-suffix,inner-active.mobi,reject 
+host-suffix,appiersig.com,reject
+host-suffix,rubiconproject.com,reject
+host-suffix,doubleverfity.com,reject 
+host-suffix,mobilefuse.com,reject 
+host-suffix,chinaliftoff-creatives.io,reject 
+host-suffix,adsappier.com,reject 
+host-suffix,cdnyeah.com,reject 
+host-suffix,agkn.com,reject 
+host-suffix,smaato.net,reject 
+host-suffix,geoedge.be,reject 
+host-suffix,dotomo.com,reject 
+host-suffix,chinaliftoff.op,reject
+host-suffix,zmaticoo.com,reject 
+host-suffix,ninthdecimal.com,reject 
+host-suffix,2mdn.net,reject 
+host-suffix,appier.net,reject 
+host-suffix,mediaplex.com,reject 
+host-suffix,rtboom.com,reject
+
+
+
+
 
 host-suffix,66mobi.com,reject
 host-suffix,mygolbs.cn,reject

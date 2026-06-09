@@ -767,6 +767,23 @@ host-suffix,github.io,proxy
 host-suffix,githubapp.com,proxy
 host-suffix,githubassets.com,proxy
 host-suffix,githubusercontent.com,proxy
+host-suffix,atom.io
+host-suffix,dependabot.com
+host-suffix,ghcr.io
+host-suffix,git.io
+host-suffix,github.blog
+host-suffix,github.community
+host-suffix,github.dev
+host-suffix,githubcopilot.com
+host-suffix,npm.community
+host-suffix,npmjs.com
+host-suffix,npmjs.org
+host-suffix,opensource.guide
+host-suffix,rawgit.com
+host-suffix,rawgithub.com
+host-suffix,repo.new
+host-suffix,thegithubshop.com
+
 
 # Wikipedia 
 host-suffix,mediawiki.org,proxy
@@ -781,8 +798,6 @@ host-suffix,wikisource.org,proxy
 host-suffix,wikiversity.org,proxy
 host-suffix,wikivoyage.org,proxy
 host-suffix,wiktionary.org,proxy
-
-
 
 # 
 host-suffix,eu,proxy
