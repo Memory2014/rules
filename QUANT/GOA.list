@@ -767,22 +767,22 @@ host-suffix,github.io,proxy
 host-suffix,githubapp.com,proxy
 host-suffix,githubassets.com,proxy
 host-suffix,githubusercontent.com,proxy
-host-suffix,atom.io
-host-suffix,dependabot.com
-host-suffix,ghcr.io
-host-suffix,git.io
-host-suffix,github.blog
-host-suffix,github.community
-host-suffix,github.dev
-host-suffix,githubcopilot.com
-host-suffix,npm.community
-host-suffix,npmjs.com
-host-suffix,npmjs.org
-host-suffix,opensource.guide
-host-suffix,rawgit.com
-host-suffix,rawgithub.com
-host-suffix,repo.new
-host-suffix,thegithubshop.com
+host-suffix,atom.io,proxy
+host-suffix,dependabot.com,proxy
+host-suffix,ghcr.io,proxy
+host-suffix,git.io,proxy
+host-suffix,github.blog,proxy
+host-suffix,github.community,proxy
+host-suffix,github.dev,proxy
+host-suffix,githubcopilot.com,proxy
+host-suffix,npm.community,proxy
+host-suffix,npmjs.com,proxy
+host-suffix,npmjs.org,proxy
+host-suffix,opensource.guide,proxy
+host-suffix,rawgit.com,proxy
+host-suffix,rawgithub.com,proxy
+host-suffix,repo.new,proxy
+host-suffix,thegithubshop.com,proxy
 
 
 # Wikipedia 
