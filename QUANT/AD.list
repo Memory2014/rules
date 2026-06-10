@@ -1,6 +1,12 @@
 ## 广告域名列表
 
-
+host-suffix,ctobsnssdk.com,reject
+host-suffix,tobsnssdk.com,reject
+host-suffix,gepush.com,reject
+host-suffix,shuzilm.cn,reject
+host-suffix,openinstall.io,reject
+host-suffix,pangolin-sdk-toutiao1.com,reject
+host-suffix,ugdtimg.com,reject
 host-suffix,qiezibenpao.com,reject
 host-suffix,tianwenca.com,reject
 host-suffix,xinqiucc.com,reject
@@ -70,7 +76,6 @@ host-suffix,imasdk.googleapis.com,reject
 host-suffix,ep7.facebook.com,reject
 host-suffix,ep2.facebook.com,reject
 
-
 host-suffix,taboola.com,reject
 host-suffix,app-ads-services.com,reject 
 host-suffix,adsafeprotected.com,reject 
@@ -93,10 +98,6 @@ host-suffix,2mdn.net,reject
 host-suffix,appier.net,reject 
 host-suffix,mediaplex.com,reject 
 host-suffix,rtboom.com,reject
-
-
-
-
 
 host-suffix,66mobi.com,reject
 host-suffix,mygolbs.cn,reject
@@ -514,7 +515,7 @@ host-suffix,1uandun.com,reject
 host-suffix,shibeiou.com,reject
 host-suffix,915.com,reject
 host-suffix,htfmbt.com,reject
-DOMAIN,log.tu.baixing.com,reject
+host,log.tu.baixing.com,reject
 host-suffix,mobaders.com,reject
 host-suffix,zlongad.com,reject
 host-suffix,ggmmqq.com,reject
@@ -669,8 +670,8 @@ host-suffix,sax.sina.cn,reject
 host-suffix,sax.sina.com.cn,reject
 host-suffix,tjs.sjs.sinajs.cn,reject
 host-suffix,wax.weibo.com,reject
-DOMAIN,sbeacon.sina.com.cn,reject
-DOMAIN,log.sina.cn,reject
+host,sbeacon.sina.com.cn,reject
+host,log.sina.cn,reject
 host-suffix,sapi.sina.cn,reject
 
 ## QQ
