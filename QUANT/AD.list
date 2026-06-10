@@ -1,5 +1,9 @@
 ## 广告域名列表
 
+host-suffix,gifshow.com,reject
+host-suffix,sofire.baidu.com,reject
+host-suffix,checktrustworthiness.com,reject
+host-suffix,volces.com,reject
 host-suffix,ctobsnssdk.com,reject
 host-suffix,tobsnssdk.com,reject
 host-suffix,gepush.com,reject
@@ -757,6 +761,9 @@ host-suffix,drs.wtzw.com,reject
 host-suffix,drs-ipv6.wtzw.com,reject
 host-suffix,janapi.jd.com,reject
 host-suffix,xlog.jd.com,reject
+
+
+
 
 ## B. 精准广告域 / 特定域（保留完整域名）
 host-suffix,adbiding.cn,reject
