@@ -1,5 +1,10 @@
 ## 广告域名列表
 
+
+host-suffix,irisdt.cn,reject
+host-suffix,deepinstall.com,reject
+
+
 host-suffix,gifshow.com,reject
 host-suffix,sofire.baidu.com,reject
 host-suffix,checktrustworthiness.com,reject
